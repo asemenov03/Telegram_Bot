@@ -1,9 +1,0 @@
-zel_key_api_main = '5971442345:AAEBAPfSHZDKQm4yDneZMob558Bff9WfSHk'
-chat_id_zel = -1001670247565
-chat_id_spb = -1001835462494
-chat_id_ekb = -1001767065612
-chat_id_nsk = -1001597041151
-chat_id_krsku = -1001857380147
-chat_id_krskk = -1001866733802
-bot_id = 5971442345
-admin = 763749172
